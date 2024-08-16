@@ -9,7 +9,7 @@ Die Hausübung ist in zwei Hauptteile unterteilt:
 ### 1. Semantisches Datenmodell
 
 - **Erstellung eines semantischen Datenmodells**: Ein semantisches Datenmodell in ERD- oder SERM-Notation mit Kardinalitäten zu den jeweiligen Fallstudien.
-- 
+  
 ### 2. Logisches Datenmodell
 
 - **Umsetzung des Datenmodells**: Implementation des semantischen Datenmodelle in eine relationalen Datenbank (Empfehlung: PostgreSQL) in dritter Normalform (3NF).
